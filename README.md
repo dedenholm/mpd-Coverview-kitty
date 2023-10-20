@@ -23,8 +23,10 @@ launch with python in kitty
 you can either create your own .desktop file for launching with rofi, or use a keybinding for launching it
 
 ## Acknowledgements
-this project startet with hacking off the album art display portion of 
+
+this project started with hacking off the album art display portion of 
 [Miniplayer](https://github.com/GuardKenzie/miniplayer/tree/main), with significant modifications. 
+
 
 ## Dependencies
 
