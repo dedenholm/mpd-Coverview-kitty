@@ -22,13 +22,13 @@ RESOLUTION = "500, 500"
 MPDHOST = "localhost"
 MPDPORT = "6600"
 MPDPASS = False
-music_library = "/home/daniel/wdbook/media/Musikk/"
+music_library = "/path/to/mpd/music/library"
 cover_formats = ["cover.jpg", "folder.jpg", "folder.png", "folder.jpeg", "cover.jpeg", "cover.png"]
 
  # Album art location
-album_art_loc = "/home/daniel/.aartminip.png"
+album_art_loc = "/location/of/coverview/.aartminip.png"
 # Album art placeholder location
-placeholder_loc = "/home/daniel/.placeholder.png"
+placeholder_loc = "/location/of/coverview/.placeholder.png"
 
       
 class Exceptor: 
