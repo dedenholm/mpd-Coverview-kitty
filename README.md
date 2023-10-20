@@ -9,7 +9,7 @@ Written in python.
 - fetches album art first from folder.jpeg, cover.png, etc, if none is found it uses mutagen to look for embedded cover art, if all else fails it displays a fallback image
 - no fetching album art from online databases, as ive never experienced a reliable implementation of that.
 ## Installation
-
+- install all dependencies, using pip or your package manager of choice
 - download Coverview folder to a location of your choosing
 - edit `/path/to/mpd/music/library` in coverview_x.x.py
 - edit `/location/of/coverview/.aartminip.png` and `/location/of/coverview/.placeholder.png` to reflect your install location
