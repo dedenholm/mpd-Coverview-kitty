@@ -10,9 +10,7 @@ written in python.
 ## Usage
 launch with python in kitty
 
-"""
-kitty python /path/to/coverview_0.9.1.py
-"""
+"" kitty python /path/to/coverview_0.9.1.py
 
 ## Acknowledgements
 this project startet with hacking off the album art display portion of 
