@@ -43,5 +43,5 @@ python-pillow
 ## Screenshots
 
 ![alt text](https://github.com/dedenholm/mpd-Coverview-kitty/blob/main/Screenshots/Screenshot_3.png "suggested usage")
-![alt text](https://github.com/dedenholm/mpd-Coverview-kitty/blob/main/Screenshots/Screenshot_1.png "suggested usage")
+![alt text](https://github.com/dedenholm/mpd-Coverview-kitty/blob/main/Screenshots/Screenshot_4.png "suggested usage")
 ![alt text](https://github.com/dedenholm/mpd-Coverview-kitty/blob/main/Screenshots/Screenshot_2.png "only the program")
