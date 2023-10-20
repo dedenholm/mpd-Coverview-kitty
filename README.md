@@ -24,8 +24,13 @@ this project startet with hacking off the album art display portion of
 [Miniplayer](https://github.com/GuardKenzie/miniplayer/tree/main), with significant modifications. 
 
 ## Dependencies
+
 kitty
+
 python 3
+
 python-pixcat-git
+
 python-mpd2
+
 python-pillow
