@@ -34,6 +34,8 @@ kitty
 
 python 3
 
+python-mutagen
+
 python-pixcat-git
 
 python-mpd2
