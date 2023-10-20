@@ -29,6 +29,7 @@ this project started with hacking off the album art display portion of
 
 
 ## Dependencies
+mpd
 
 kitty
 
